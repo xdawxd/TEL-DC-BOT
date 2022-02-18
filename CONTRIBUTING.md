@@ -22,7 +22,7 @@ This process is very common among all kind of repositories.
 - **Think of something to do**  
     You can submit bugs or your ideas in the [issues](https://github.com/xdawxd/TEL-DC-BOT/issues) tab.
     
-    If you're having trouble with coming up with something you can always look through and try implementing it yourself.
+    If you're having trouble with coming up with something you can always look through and try implementing it yourself
 
     
 - **Work in a named branch**  
@@ -38,8 +38,12 @@ This process is very common among all kind of repositories.
 
 
 - **Submitting your pull request**  
+    If you're having hard time submitting your first Pull Request [this](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) might come in handy   
+    Please include a description of the changes you made inside the PR
 
-If you're having hard time submitting your first Pull Request [this](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) might come in handy
+
+- **Exemplary pull request**  
+    For an example of correctly created Pull Request take a look [here](https://github.com/xdawxd/TEL-DC-BOT/pull/1)
 
 ## Commit Message Format
 
@@ -60,7 +64,7 @@ The allowed `<type>` possibilities are as follows:
 
 The `(scope)` can be anything specifying place of the commit change.
 
-The `<description>` should contain a short summary of what has been changed
+The `<description>` should contain a short summary of what has been changed.
 
 ## Branch naming conventions
 
