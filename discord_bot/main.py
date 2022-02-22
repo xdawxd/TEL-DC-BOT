@@ -26,7 +26,7 @@ async def reload(ctx, extension) -> None:
     await ctx.send(f'{extension} reloaded.')
 
 
-for filename in os.listdir('./cogs'):
+for filename in os.listdir('./TEL-DC-BOT/discord_bot/cogs'):
     if filename.endswith('.py') and "__init__" not in filename:
         client.load_extension(f'cogs.{filename[:-3]}')
 
